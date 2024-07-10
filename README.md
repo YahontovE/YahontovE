@@ -4,13 +4,16 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-YahontovE&style=flat-square&color=blue" alt=""/>
 </div>
+---
 <h1 align="center">
   hello world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+---
 <div align="center">
   <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1p7h3fvg8s00415nj0j.gif" width="600" height="300"/>
 </div>
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
