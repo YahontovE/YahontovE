@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-YahontovE&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://робокод.рф/wp-content/uploads/2023/08/programming-gif.gif" width="600" height="300"/>
+  <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="600" height="300"/>
 </div>
 <!--
 **YahontovE/YahontovE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
